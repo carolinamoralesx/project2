@@ -1,5 +1,5 @@
 body {
-    color: rgba(0, 128, 0, 0.3);
+    color: black);
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -9,7 +9,7 @@ body {
 }
 
 .navbar-default .navbar-brand{
-    color: #1c1c20;
+    color: black;
 }
 
 h2 {
